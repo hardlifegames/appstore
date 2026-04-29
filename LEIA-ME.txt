@@ -1,0 +1,5 @@
+Logo da Hardlife Store já incluído:
+- hardlife-store-logo.png
+
+O site usa este arquivo no topo da loja e também pode ser usado como ícone do app.
+Para trocar futuramente, substitua esse PNG mantendo exatamente o mesmo nome.
